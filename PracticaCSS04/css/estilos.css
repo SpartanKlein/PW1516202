@@ -1,0 +1,13 @@
+#header{
+    background-color: #245d92;
+    margin: auto;
+    max-width: 1024px;
+}
+
+#main{
+    background-color: #efefef;
+}
+
+.letra_blanca{
+    color: white;
+}
